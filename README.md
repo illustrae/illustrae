@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **--**
 
-- 📫 How to reach me **traehugh.dev@gmail.com**
+- 📫 How to reach me **https://dev.to/illustrae**
 
 - ⚡ Fun fact **I love 🐱,🐶,🐻,🐢 and 🎧**
 

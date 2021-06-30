@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **--**
 
-- 📝 I regularly write articles on [https://www.blvckdev.com](https://www.blvckdev.com)
+<!-- - 📝 I regularly write articles on [https://www.blvckdev.com](https://www.blvckdev.com) -->
 
 - 💬 Ask me about **--**
 

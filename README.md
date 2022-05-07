@@ -7,11 +7,11 @@
 
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 
-- 🤝 I’m looking for help with **--**
+- 🤝 I’m looking for help with **Dapps**
 
-<!-- - 📝 I regularly write articles on [https://www.blvckdev.com](https://www.blvckdev.com) -->
+<!-- - 📝 I regularly write articles on -->
 
-- 💬 Ask me about **--**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **https://dev.to/illustrae**
 

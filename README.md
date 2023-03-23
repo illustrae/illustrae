@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏾, I'm Trae Software Developer</h2>
+<h2 align="left">Hi 👋🏾, I'm Trae and I'm Software Developer</h2>
 
 ###
 

@@ -22,8 +22,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+    
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=illustrae" alt="illustrae" />
+</a>
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illustrae&theme=dark&title_color=eb0000&text_color=ffffff&bg_color=383838&hide_border=true&layout=compact" alt="illustrae stats card" /></p>
